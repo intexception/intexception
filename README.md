@@ -15,5 +15,5 @@ Languages I code in:
     <li>VB.NET</li>
 </ul>
 
-<a href="https://discord.gg/gMVSYjBJjW">Discord Xdddd</a>
+<a href="https://discord.gg/9Zq4BEBU4s">Discord Xdddd</a>
 
