@@ -1,7 +1,6 @@
 ### Hello!
 
-- 🔭 I’m currently working on Watykan Security (will be opensource project){
-   Wanna join? DM me on discord: co#8865
+- 🔭 I’m currently working on netlib C# network library.
 }
 
 Languages I code in:
