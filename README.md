@@ -1,7 +1,7 @@
-### Hello!
+### Hello! I am <a href="https://0x91.cf">nquantum</a>
 
 - 🔭 I’m currently working on netlib C# network library.
-}
+
 
 Languages I code in:
 <ul>
@@ -10,7 +10,6 @@ Languages I code in:
     <li>JS</li>
     <li>HTML</li>
     <li>CSS</li>
-    <li>F#</li>
     <li>VB.NET</li>
 </ul>
 
