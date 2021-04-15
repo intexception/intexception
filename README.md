@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on netlib C# network library.
 
 
-Languages I code in:
+Languages I work:
 <ul>
    <li>C#</li>
     <li>C <i>I know some, but not very much.</i></li>
