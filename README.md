@@ -5,8 +5,9 @@
 
 Languages I work:
 <ul>
-   <li>C#</li>
-    <li>C <i>I know some, but not very much.</i></li>
+    <li>C</li>
+    <li>C++</li>
+    <li>C#</li>   
     <li>JS</li>
     <li>HTML</li>
     <li>CSS</li>
