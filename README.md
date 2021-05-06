@@ -7,7 +7,8 @@ Languages I work:
 <ul>
     <li>C</li>
     <li>C++</li>
-    <li>C#</li>   
+    <li>C#</li>  
+    <li>Java</li>   
     <li>JS</li>
     <li>HTML</li>
     <li>CSS</li>
