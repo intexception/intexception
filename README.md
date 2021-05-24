@@ -1,6 +1,7 @@
 ### Hello! I am <a href="https://0x91.cf">nquantum</a>
 
-- 🔭 I’m currently working on netlib C# network library.
+- 🔭 I’m currently working on netlib C# network library...
+...and many other projects... :D
 
 
 Languages I work:
@@ -15,5 +16,6 @@ Languages I work:
     <li>VB.NET</li>
 </ul>
 
-<a href="https://discord.gg/9Zq4BEBU4s">Discord Xdddd</a>
+<a href="https://discord.gg/9Zq4BEBU4s">Discord Server</a>
+nquantum#8865
 
