@@ -4,7 +4,7 @@
 ...and many other projects... :D
 
 
-Languages I work:
+Languages I work with:
 <ul>
     <li>C</li>
     <li>C++</li>
