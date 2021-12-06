@@ -1,9 +1,5 @@
 ### Hello! I am <a href="https://0x91.cf">nquantum</a>
 
-- 🔭 I’m currently working on netlib C# network library...
-...and many other projects... :D
-
-
 Languages I work with:
 <ul>
     <li>C</li>
