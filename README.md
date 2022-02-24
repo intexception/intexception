@@ -11,7 +11,7 @@ Languages I work with:
     <li>CSS</li>
     <li>VB.NET</li>
 </ul>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![stats](https://github-readme-stats.vercel.app/api?username=intexception)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://discord.gg/9Zq4BEBU4s">Discord Server</a>
 nquantum#8865
 
