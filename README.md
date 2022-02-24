@@ -11,7 +11,9 @@ Languages I work with:
     <li>CSS</li>
     <li>VB.NET</li>
 </ul>
-[![stats](https://github-readme-stats.vercel.app/api?username=intexception)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intexception&langs_count=8)]
+
 <a href="https://discord.gg/9Zq4BEBU4s">Discord Server</a>
 nquantum#8865
 
