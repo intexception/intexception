@@ -16,5 +16,5 @@ Languages/Frameworks I work with:
 ![Stats](https://github-readme-stats.vercel.app/api?username=intexception&show_icons=true&theme=radical)
 
 <a href="https://discord.gg/9Zq4BEBU4s">Discord Server</a>
-nquantum#8865
+nquantum#8865 | 867330713945767966 (in case I change my username - you can get my tag using <a href="https://discord.id">this website </a>)
 
