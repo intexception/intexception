@@ -1,15 +1,15 @@
-### Hello! I am <a href="https://0x91.cf">nquantum</a>
+### Hello! I am <a href="https://nquantum.best">nquantum</a>
 
-Languages I work with:
+Languages/Frameworks I work with:
 <ul>
-    <li>C</li>
-    <li>C++</li>
     <li>C#</li>  
     <li>Java</li>   
     <li>JS</li>
+    <li>NodeJS</li>
     <li>HTML</li>
     <li>CSS</li>
-    <li>VB.NET</li>
+    <li>Tailwind CSS</li>
+    <li>Bootstrap</li>
 </ul>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intexception&langs_count=8)
