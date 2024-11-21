@@ -14,6 +14,8 @@ Languages/Frameworks I work with:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intexception&langs_count=8)
 ![Stats](https://github-readme-stats.vercel.app/api?username=intexception&show_icons=true&theme=radical)
+![](https://komarev.com/ghpvc/?username=intexception)
+
 
 <a href="https://discord.gg/9Zq4BEBU4s">Discord Server</a>
 nquantum#8865 | 867330713945767966 (in case I change my username - you can get my tag using <a href="https://discord.id">this website</a>)
