@@ -4,7 +4,7 @@ I'm a self-taught 18-year-old software developer and a technology enthusiast wit
 
 ## My Environment
 #### Main PC
-- **OS**: Bedrock Linux (Void)
+- **OS**: Bedrock Linux (Artix)
 - **Main IDE**: Neovim
 - **Secondary IDEs**: IntelliJ IDEA, RustRover, GoLand
 - **Terminal**: kitty
