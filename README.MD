@@ -1,4 +1,3 @@
-
 ## I'm nquantum
 I'm a self-taught 18-year-old software developer and a technology enthusiast with over 7 years of experience. I began my journey with **Visual Basic .NET** and **C#** when I was 11 years old and proceeded to quickly learn more over time. 
 
@@ -50,3 +49,6 @@ I have a strong background in **technical research** and **Root Cause Analysis**
 - **Matrix**: @nquantum:unredacted.org
 - **Telegram**: @bedzietylkolepiej
 - **GPG Fingerprint**: `3961 C960 2340 FF0A 4A3D  C22D D60A 0197 BF54 8DF5`
+
+## Donate
+- **Monero**: 89EZnQSDCkAhtt6gcNfurkaRR1o9wMipZFcVKm13QzoZc3YVpJqfQmd7fQZAz3kCcLhaLQs8e4oDC164ZKuusbKHGGUykh2
